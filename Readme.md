@@ -6,7 +6,7 @@ This paper is concerned with robustly solving one as well as multiple rotation e
 
 <div align=center>
 
-![我的头像](https://i.imgur.com/LEdkylu.png)
+![我的头像](https://i.imgur.com/cJiYF7P.png)
 
 <div align=left>
 
