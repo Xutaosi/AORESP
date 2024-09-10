@@ -33,7 +33,7 @@ To robustly and efficiently solve the rotation axes, we introduce a spatial voti
 
 <div align=center>
 
-![我的头像](https://i.imgur.com/EEybojD.png)
+![我的头像](https://i.imgur.com/U58WCma.png)
 
 <div align=left>
 
