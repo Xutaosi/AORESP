@@ -14,15 +14,15 @@ The rotation estimation problem is decoupled into two subproblems, i.e., rotatio
 
 <div align=center>
 
-![我的头像](https://i.imgur.com/dzOiuSX.png)
+![我的头像](https://i.imgur.com/YYDDe0c.png)
 
 <div align=left>
 
 By considering the rotation geometric constraint, solving the rotation axis becomes finding the points of maximum intersection of circles on the unit sphere. Innovatively, we use stereographic projection to map the circles from a three-dimensional sphere onto a two-dimensional plane. In this way, computations in redundant spaces can be avoided, therefore increasing the efficiency of the solution.
 
 <div align=center>
-
-![我的头像](https://i.imgur.com/SaGkfUF.png)
+  
+![我的头像](https://i.imgur.com/saoqhjL.png)
 
 <div align=left>
 To robustly and efficiently solve the rotation axes, we introduce a spatial voting strategy to find points of maximum intersection of circles on the 2D plane. Using this strategy, we can find the optimal rotation axis and multiple rotation axes simultaneously.
@@ -33,7 +33,7 @@ To robustly and efficiently solve the rotation axes, we introduce a spatial voti
 
 <div align=center>
 
-![我的头像](https://i.imgur.com/1m4PkqG.png)
+![我的头像](https://i.imgur.com/EEybojD.png)
 
 <div align=left>
 
@@ -47,13 +47,13 @@ To evaluate the accuracy and robustness of the proposed method, comparative expe
 
 <div align=center>
 
-![我的头像](https://i.imgur.com/rjf95z8.png)
+![我的头像](https://i.imgur.com/eoWyKzM.png)
 
 <div align=left>
 
 <div align=center>
 
-![我的头像](https://i.imgur.com/WEGNrOc.png)
+![我的头像](https://i.imgur.com/XukCbei.png)
 
 <div align=left>
 
