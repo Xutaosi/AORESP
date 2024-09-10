@@ -69,7 +69,7 @@ We use two distinct datasets to demonstrate our algorithm's performance in both 
 
 <div align=center>
 
-![我的头像](https://i.imgur.com/tHuXQP5.png)
+![我的头像](https://i.imgur.com/EEybojD.png)
 
 <div align=left>
 <div align=center>
@@ -94,12 +94,12 @@ We use two distinct datasets to demonstrate our algorithm's performance in both 
 
 <div align=center>
 
-![我的头像](https://i.imgur.com/kJDeRsX.png)
+![我的头像](https://i.imgur.com/8IVI5wO.png)
 
 <div align=left>
 <div align=center>
-
-![我的头像](https://i.imgur.com/hSc9Hk2.png)
+  
+![我的头像](https://i.imgur.com/2Y5JFfm.png)
 
 <div align=left>
 
