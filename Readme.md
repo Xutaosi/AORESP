@@ -124,7 +124,7 @@ This program uses python 3.11. Make sure that your Python environment is activat
 ## 🏁 **Contact me**
 
 If you have any questions about this code or paper, feel free to contact me at
-[mc35344@connect.um.edu.mo](mc35344@connect.um.edu.mo).
+[mc35344@connect.um.edu.mo](mc35344atconnect.um.edu.mo).
 
 
 
